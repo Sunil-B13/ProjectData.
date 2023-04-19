@@ -14,7 +14,7 @@ M2 Money Supply (in Billions of USD),"A measure of the money supply that include
 Borrowings from the Federal Reserve (in Billions of USD),"The total amount of money borrowed by banks and other financial institutions from the central bank (e.g., Federal Reserve in the US) during a specified period, expressed in billions of U.S. dollars (USD)."
 Currency in Circulation (in Billions of USD),"The total value of physical currency (banknotes and coins) in circulation within an economy, expressed in billions of U.S. dollars (USD)."
 GDP (in Billions of USD),"The total market value of all goods and services produced within a country in a given period, expressed in billions of U.S. dollars (USD)."
-Inflation Rate, The percentage change in the average price level of a basket of selected goods and services in an economy over a period of time, often measured on a yearly basis
+Inflation Rate, "The percentage change in the average price level of a basket of selected goods and services in an economy over a period of time, often measured on a yearly basis."
 CPI,"Consumer Price Index, a measure that examines the weighted average of prices of a basket of consumer goods and services. It is used as an indicator of inflation."
 Un-employment Rate,The percentage of the total labor force that is unemployed but actively seeking employment and willing to work.
 Balance of Trade (Services in Millions of USD),"The difference between a country's exports and imports of services, expressed in millions of U.S. dollars (USD). A positive balance indicates a trade surplus, while a negative balance indicates a trade deficit."
